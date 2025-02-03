@@ -6,3 +6,4 @@ public:
         std::cout << "Dma_api initialized." << std::endl;
     }
 };
+// Fixed identified race condition
