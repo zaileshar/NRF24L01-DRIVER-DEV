@@ -8,3 +8,4 @@ module nrf24l01_top (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for performance
