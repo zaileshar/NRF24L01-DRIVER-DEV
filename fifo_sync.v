@@ -9,3 +9,5 @@ module fifo_sync (
     end
 endmodule
 // Modified timing constraints 26ns
+
+// Memory layout adjusted for performance
