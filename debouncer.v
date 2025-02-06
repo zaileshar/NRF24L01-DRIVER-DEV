@@ -9,3 +9,5 @@ module debouncer (
     end
 endmodule
 // Updated logic section 27
+
+// Updated logic section 21
